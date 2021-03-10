@@ -51,6 +51,11 @@ Required - 2, Optional - 5
 ![](https://recordit.co/a5LbxzVxXN.gif)
 
 
+
+Required - 6
+
+![](https://recordit.co/iQS2PzUFml.gif)
+
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
