@@ -48,7 +48,7 @@ Required - 1, 3-5, 7, Optional - 1-3, 6, 7
 
 Required - 2, Optional - 5 
 
-![](https://recordit.co/a5LbxzVxXN.gif)
+![](https://recordit.co/2F59Q8kT8j.gif)
 
 
 
