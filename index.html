@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Hello!</title>
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>  
+  <body>
+    <h1>LSM Game</h1>
+    
+    <p>
+      Welcome to the LSM Game. Repeat the given pattern to win!
+    </p>
+    
+    <button id="startBtn" onclick="startGame()">
+      Start
+    </button>
+    <button id="stopBtn" class="hidden" onclick="stopGame()">
+      Stop
+    </button>
+    
+    <div id="gameButtonArea">
+      <button id="button1" onmousedown="startTone(1), lightButton(1)" onmouseup="stopTone(), clearButton(1)" onclick="guess(1)">
+        <img id="picture1" class="hidden" src="https://cdn.glitch.com/c62e09b9-cef5-4253-8864-e9413be225a2%2Fthumbnails%2FForest_Green_Rovers_crest.svg.png?1615270841043">      
+      </button>
+      <button id="button2" onmousedown="startTone(2), lightButton(2)" onmouseup="stopTone(), clearButton(2)" onclick="guess(2)">
+        <img id="picture2" class="hidden" src="https://cdn.glitch.com/c62e09b9-cef5-4253-8864-e9413be225a2%2Fthumbnails%2Fnapoli.png?1615314038215">
+      </button> 
+      <button id="button3" onmousedown="startTone(3), lightButton(3)" onmouseup="stopTone(), clearButton(3)" onclick="guess(3)">
+        <img id="picture3" class="hidden" src="https://cdn.glitch.com/c62e09b9-cef5-4253-8864-e9413be225a2%2Fthumbnails%2Faberdeen.png?1615314521388">
+      </button>
+      <button id="button4" onmousedown="startTone(4), lightButton(4)" onmouseup="stopTone(), clearButton(4)" onclick="guess(4)">
+        <img id="picture4" class="hidden" src="https://cdn.glitch.com/c62e09b9-cef5-4253-8864-e9413be225a2%2Fthumbnails%2Fdortmund.png?1615314640344">
+      </button>
+      <button id="button5" onmousedown="startTone(5), lightButton(5)" onmouseup="stopTone(), clearButton(5)" onclick="guess(5)">
+        <img id="picture5" class="hidden" src="https://cdn.glitch.com/c62e09b9-cef5-4253-8864-e9413be225a2%2Fthumbnails%2Fnewcastle.png?1615314861711">
+      </button>
+      <button id="button6" onmousedown="startTone(6), lightButton(6)" onmouseup="stopTone(), clearButton(6)" onclick="guess(6)">
+        <img id="picture6" class="hidden" src="https://cdn.glitch.com/c62e09b9-cef5-4253-8864-e9413be225a2%2Fthumbnails%2Ftoulouse.png?1615315057848">
+      </button>
+    </div>
+
+  </body>
+</html>
