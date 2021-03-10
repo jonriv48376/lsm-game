@@ -54,7 +54,7 @@ Required - 2, Optional - 5
 
 Required - 6
 
-![](https://recordit.co/iQS2PzUFml.gif)
+![](https://recordit.co/Y1Vc4b48tF.gif)
 
 ## Reflection Questions
 
