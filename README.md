@@ -8,6 +8,8 @@ Time spent: 5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/sparkling-elfin-axolotl
 
+Link to Website: https://sparkling-elfin-axolotl.glitch.me/
+
 ## Required Functionality
 
 The following **required** functionality is complete:
