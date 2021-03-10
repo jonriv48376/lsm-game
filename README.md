@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Required - 1-7, Optional - 1-3, 6, 7
+Required - 1, 3-7, Optional - 1-3, 6, 7
 
 
 ![](https://recordit.co/2LujXFs0Dx.gif)
