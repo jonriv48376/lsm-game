@@ -59,6 +59,7 @@ Required - 6
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
+   
    For Randomizing Pattern - https://medium.com/@oldwestaction/randomness-is-hard-e085decbcbb2
    In general - https://www.w3schools.com/
    In general - https://css-tricks.com/
