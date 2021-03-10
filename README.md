@@ -43,7 +43,7 @@ Here's a walkthrough of implemented user stories:
 Required - 1-7, Optional - 1-3, 6, 7
 
 
-![](https://recordit.co/BAUQQk9CVq.gif)
+![](https://recordit.co/2LujXFs0Dx.gif)
 
 
 
