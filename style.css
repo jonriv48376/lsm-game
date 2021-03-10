@@ -4,12 +4,12 @@ body {
   background-color: black;
   margin: 2em; 
   color: white;
-  font-family: helvetica, arial, sans-serif;
+  font-family: helvetica, arial, serif;
   
 }
 
 h1 {
-  font-family: verdana, arial, sans-serif; 
+  font-family: verdana, arial, serif; 
   color: #87CEEB;
 }
 
