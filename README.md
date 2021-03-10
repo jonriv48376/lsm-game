@@ -65,6 +65,8 @@ Required - 6
    In general - https://www.w3schools.com/
    
    In general - https://css-tricks.com/
+   
+   In general - https://stackoverflow.com/
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
    [YOUR ANSWER HERE]
